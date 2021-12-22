@@ -10,7 +10,7 @@ public class Piece : MonoBehaviour
 
     public float stepDelay = 0.5f;
     public float moveDelay = 0.1f;
-    public float lockDelay = 0.5f;
+    public float lockDelay = 0.2f;
 
     private float stepTime;
     private float moveTime;
